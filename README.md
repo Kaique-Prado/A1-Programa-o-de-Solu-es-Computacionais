@@ -10,6 +10,7 @@ O pragrama tem como objetivo ajudar funcionários de uma empresa a se hidratarem
 
 # Author 😁
 desenvolvido por: [Kaique Prado](https://github.com/Kaique-Prado)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaique-prado-945664276/)
 
 
 
