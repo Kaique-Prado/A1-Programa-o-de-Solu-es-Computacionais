@@ -9,7 +9,8 @@ O pragrama tem como objetivo ajudar funcionários de uma empresa a se hidratarem
 - Imprimir uma mensagem para o funcionário saber se atingiu a meta
 
 # Author 😁
-desenvolvido por: [Kaique Prado](https://github.com/Kaique-Prado)
+desenvolvido por: [Kaique Prado](https://github.com/Kaique-Prado)  
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaique-prado-945664276/)
 
 
